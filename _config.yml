@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "CSMB / APCSP"
+title                    : "CSMB / GIS"
 title_separator          : "-"
 name                     : &name "Paige"
-description              : &description "This is a sample student portfoio for AP Computer Science Principles"
+description              : &description "This is a sample student portfoio for Geographic Information Systems"
 url                      : https://eigpa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "eigpa/eigpa.io"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Paige"
-  avatar           : "Gerald_G_Rubber_Duck.png"
-  bio              : "This is a sample portfolio for AP Computer Science Principles. In AP Computer Science Principles, students learn how to creatively address real-world issues with the tools and processes of computer science."
+  avatar           : 
+  bio              : "This is a sample portfolio for Geographic Information Systems. Students learn how to creatively address real-world issues with the tools and processes arcgis."
   location         : "St. Louis, MO"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
